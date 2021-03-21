@@ -79,7 +79,7 @@ The solution of recurrence is O(n^1.58) using Master Method.
 
 ### References
 
-1.https://en.wikipedia.org/wiki/Divide-and-conquer
+1. https://en.wikipedia.org/wiki/Divide-and-conquer
 algorithm  
 2. https://www.geeksforgeeks.org/divide-and-conquer/  
 3. Cormen, Leiserson, Rivest, and Stein (2009). Introduction
